@@ -1,5 +1,5 @@
 # 💫 About Me:
-A computer science student and an aspiring frontend developer from the Philippines<br><br>I’m currently working on ImperialCode<br><br>I’m currently learning Machine Learning and Software Development<br><br>Fun fact **I like anything Purple
+A computer science student and an aspiring frontend developer from the Philippines<br><br>I’m currently working on ImperialCode<br><br>I’m currently learning Machine Learning and Software Development<br><br>Fun fact **I like anything Purple**
 
 
 ## 🌐 Socials:
